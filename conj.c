@@ -22,4 +22,4 @@ void main()
         printf("\n");
     }
 }
-© 2020 GitHub, 
+
